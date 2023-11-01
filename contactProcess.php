@@ -14,6 +14,8 @@
 if($_SERVER["REQUEST_METHOD"] == "POST"){
     $name = $_POST["name"];
     $email = $_POST["email"];
+    $phone = $_POST["phone"];
+    $message = $_POST["message"];
     
 
     echo '<div class="alert alert-warning alert-dismissible fade show" role="alert">

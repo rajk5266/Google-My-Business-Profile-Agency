@@ -39,10 +39,10 @@
         <div class="col col-12 about-us-col">
              <div class="row about-us-content-head">
                  <div class="col col-12">
-                     <h1>Google My Business</h1>
+                     <h1 class="title-head">Google My Business</h1>
                   </div>
                  <div class="col col-12">
-                     <h3>Lorem, ipsum dolor.</h3>
+                     <h3 class="title-head">Lorem, ipsum dolor.</h3>
                  </div>
              </div>
         </div>
@@ -63,7 +63,7 @@
 
     <!-- CLIENT LOGOS SECTION   -->
     <div class="container">
-	 	<h1>Our Clients</h1>
+	 	<h1 class="title-head">Our Clients</h1>
 		<div class="client">
 		<ul>
 			<li>
@@ -89,122 +89,16 @@
 
     <!-- CLIENT LOGOS SECTION   -->
 
-    <div class="services">
-      <div class="container-fluid our-services">
-        <div class="row our-services-title">
-          <h1>*********</h1>
-        </div>
-        <div class="row services-row">
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
-                <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
-                      </div>
-                      <div class="col col-10 service-description">
-                        <h3>Google Business Profile Management</h3>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Provident eaque iste perferendis commodi doloremque inventore
-                          corporis a quos dolore eius.
-                        </p>
-                    </div>
-                </div>  
-            </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
-                <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
-                      </div>
-                      <div class="col col-10 service-description">
-                        <h3>Google Business Profile Management</h3>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Provident eaque iste perferendis commodi doloremque inventore
-                          corporis a quos dolore eius.
-                        </p>
-                    </div>
-                </div>  
-            </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
-                <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
-                      </div>
-                      <div class="col col-10 service-description">
-                        <h3>Google Business Profile Management</h3>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Provident eaque iste perferendis commodi doloremque inventore
-                          corporis a quos dolore eius.
-                        </p>
-                    </div>
-                </div>  
-            </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
-                <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
-                      </div>
-                      <div class="col col-10 service-description">
-                        <h3>Google Business Profile Management</h3>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Provident eaque iste perferendis commodi doloremque inventore
-                          corporis a quos dolore eius.
-                        </p>
-                    </div>
-                </div>  
-            </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
-                <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
-                      </div>
-                      <div class="col col-10 service-description">
-                        <h3>Brand Identity </h3>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Provident eaque iste perferendis commodi doloremque inventore
-                          corporis a quos dolore eius.
-                        </p>
-                    </div>
-                </div>  
-            </div>
-        </div>
-
-      </div>
-    </div>
+    <!-- OUR SERVICES  -->
+    <?php include "services.php"; ?>
+    <!-- OUR SERVICES  -->
+  
 
     <!-- OUR WORKS  -->
     <div class="conatiner gallery-container">
       <div class="row">
         <div class="col col-12 title">
-          <h1>Our Work is for...</h1>
+          <h1 class="title-head">Our Work is for...</h1>
         </div>
         <div class="col col-12">
           <!-- <h1>Healthcare </h1> -->
@@ -326,7 +220,7 @@
     <!-- TESTIMONIALS  -->
     <div class="container">
         <div class="row testimonial-title">
-            <div class="col col-12">What Clients think about us</div>
+            <div class="col col-12 title-head"><h3>What Clients think about us</h3></div>
         </div>
     </div>
 
@@ -419,7 +313,6 @@
     <!-- TESTIMONIALS  -->
 
     <!-- FOOTER  -->
-
    <?php include "footer.php"; ?>
     <!-- FOOTER  -->
 
