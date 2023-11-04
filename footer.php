@@ -4,8 +4,8 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget subscribe no-box">
-                <h5 class="widget-title">COMPANY NAME<span></span></h5>
-                <p>About the company, little discription will goes here..</p>
+                <h5 class="widget-title">Google My Business Profile Agency<span></span></h5>
+                <p></p>
               </div>
             </div>
 
@@ -15,20 +15,20 @@
                 <ul class="thumbnail-widget">
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Get Started</a>
+                      <a href="index.php">Home</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Top Leaders</a>
+                      <a href="OurServicesPage.php">Services</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Success Stories</a>
+                      <a href="">Blogs</a>
                     </div>
                   </li>
-                  <li>
+                  <!-- <li>
                     <div class="thumb-content">
                       <a href="#.">Event/Tickets</a>
                     </div>
@@ -41,7 +41,7 @@
                   </li>
                   <li>
                     <div class="thumb-content"><a href="#.">About</a></div>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
             </div>
@@ -49,8 +49,8 @@
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget no-box">
                 <h5 class="widget-title">Get Started<span></span></h5>
-                <p>Get access to your full Training and Marketing Suite.</p>
-                <a class="btn" href="https://bit.ly/3m9avif" target="_blank"
+                <p>Connect now to get maximum benefits for yout business.</p>
+                <a class="btn" href="" target="_blank"
                   >Subscribe Now</a
                 >
               </div>
@@ -69,7 +69,7 @@
                     <a
                       title="youtube"
                       target="_blank"
-                      href="https://bit.ly/3m9avif"
+                      href="https://b"
                       ><img
                         alt="youtube"
                         width="30"
@@ -124,7 +124,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12 text-center">
-              <p>Copyright Company Name © 2022. All rights reserved.</p>
+              <p>Copyright Google My Business Profile Agency © 2020. All rights reserved.</p>
             </div>
           </div>
         </div>

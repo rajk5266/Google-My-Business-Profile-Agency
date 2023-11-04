@@ -6,6 +6,8 @@
   <body>
   
 <!-- NAVBAR  -->
+
+
 <?php 
  include "navbar.php"
 ?>
@@ -23,14 +25,18 @@
           </div>
           <div class="col col-sm-12 col-md-4 col-lg-3" style="padding: 5%">
             <div class="hero-banner-description">
-              <h1>Google My Business Profile Agency</h1>
-              <h3>Lorem ipsum dolor sit amet.</h3>
+              <h1 class="title-head">Google My Business</h1>
+              <h3 class="title-head">Profile Agency</h3>
             </div>
           </div>
         </div>
       </div>
     <!-- </div> -->
     <!-- HERO BANNER  -->
+
+
+
+    <?php include "horizontalDivider.php"; ?>
 
     <!-- ABOUT SECTION  -->
 
@@ -39,27 +45,130 @@
         <div class="col col-12 about-us-col">
              <div class="row about-us-content-head">
                  <div class="col col-12">
-                     <h1 class="title-head">Google My Business</h1>
+                     <h1 class="title-head">Google My Business Profile Agency</h1>
                   </div>
                  <div class="col col-12">
-                     <h3 class="title-head">Lorem, ipsum dolor.</h3>
+                     <!-- <h3 class="title-head">"Your trusted agency for top-notch solutions, offering expertise, creativity, and results in Marketing , Development and Design Services </h3> -->
                  </div>
              </div>
         </div>
         <div class="col col-12 about-us-col">
              <div class="row about-us-content-desc ">
-                 <div class="col col-12">
+                 <div class="col col-8">
+                 <p>"Your trusted agency for top-notch solutions, offering expertise, creativity, and results in Marketing , Development and Design Services </p>
                      <p>
-                         Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                         Perferendis, autem hic? Quod dolor dignissimos tempora modi,
-                         blanditiis asperiores ea aliquam.
+                     "We are a dynamic agency dedicated to delivering exceptional results in digital marketing, web design, and creative services. With a focus on innovation and client success, we're your trusted partner."
                      </p>
                  </div>
              </div>
         </div>
       </div>
+
+
+      <!-- WHAT IS GMB  -->
+      
+    <?php include "horizontalDivider.php"; ?>
+
+   <div class="container what-is-gmb">
+        <div class="row">
+           <div class="col col-12">
+             <h1 class="title-head">What is GMB ?</h1>
+           </div>
+           <div class="col col-12">
+              <p>GMB is a free tool provided by Google to help businesses manage their online presence. It enables you to display essential information about your business on Google Maps and Google Search.</p>
+              <p>By claiming and optimizing your GMB profile, you can enhance your visibility and connect with potential customers who are actively searching for products and services in your area.</p>
+           </div>
+        </div>
+
+        <div class="row">
+          <div class="col col-12">
+            <h1 class="title-head">The Role of GMB in Local Marketing</h1>
+          </div>
+          <div class="col col-12">
+            <p>GMB is a critical component of local marketing. It allows you to provide accurate and up-to-date details about your business, such as your location, contact information, business hours, and website.</p>
+            <p>When users search for businesses near them, GMB listings appear prominently in search results, making it a valuable tool for attracting local customers.</p>
+          </div>
+        </div>
+       
+
+        <div class="row">
+          <div class="col col-12">
+            <h1 class="title-head">How Our Agency Can Help</h1>
+          </div>
+          <div class="col col-12">
+            <p>Our agency specializes in maximizing the potential of your GMB profile. We go beyond the basics of setting up a listing; we employ advanced strategies to make your profile a powerful customer acquisition tool.</p>
+            <p>Our services include optimizing your profile, crafting engaging content, responding to customer reviews, and monitoring performance metrics to ensure your GMB presence excels.</p>
+          </div>
+        </div>
+ 
+
+        <div class="row">
+          <div class="col col-12">
+            <h1 class="title-head">Customized GMB Strategies</h1>
+          </div>
+          <div class="col col-12">
+            <p>We recognize that each business is unique. Our approach is to develop tailored GMB strategies that align with your specific goals and target audience.</p>
+            <p>Whether you're looking to increase foot traffic to your physical location or drive online sales, we'll design and execute a customized GMB strategy to meet your objectives</p>
+          </div>
+        </div>
+      
+
+        <div class="row">
+          <div class="col col-12">
+            <h1 class="title-head">Measuring Success and Ongoing Support</h1>
+          </div>
+          <div class="col col-12">
+            <p>To gauge the effectiveness of your GMB efforts, we utilize data and insights to measure key performance metrics.</p>
+            <p>Our agency provides ongoing support to keep your GMB profile updated, engaging, and competitive in the ever-evolving digital landscape. We are your partner in achieving and maintaining success with GMB.</p>
+          </div>
+        </div>
+
+      </div>
+      <!-- WHAT IS GMB  -->
+
+     
+    <?php include "horizontalDivider.php"; ?>
+
+      <div class="row about-us">
+        <div class="col col-12">
+          <h1 class="title-head"> About Our </h1>
+          <h1 class="title-head">Google My Business Profile Agency</h1>
+        </div>
+        <div class="col col-8">
+          <p> In today's competitive landscape, your online identity matters more than ever. Our mission is to empower businesses like yours to make a lasting impression on potential customers.
+          With a fully optimized Google My Business profile, you're not just another listing – you're a vibrant, dynamic presence. We understand that your online visibility extends far beyond Google Search; it encompasses Google Maps, where potential customers seek directions to your doorstep.</p>
+          <p>Our Google My Business Agency is your dedicated partner in this journey. We go beyond just setting up your profile; we craft it into a powerful customer engagement tool. By utilizing the potential of GMB, we help you attract and retain customers, ensuring your business outshines competitors.</p>
+          <p>At our core, we're not just another digital agency. We're your growth partner, your brand advocate, and your bridge to the online world. We specialize in nurturing the digital aspects of your business, so you can focus on what you do best. Our approach is rooted in data-driven strategies, creativity, and a commitment to your success.</p>
+          <p>Partner with us to unlock the full potential of your Google My Business profile. Let's make your brand's online presence resonate with authenticity and captivate your audience. Together, we'll make sure you stand out in a digital world filled with opportunities and possibilities. Stay engaged with your competitors and stay ahead of the competition. Connect with us today and take the first step towards a thriving digital journey."</p>
+        </div>
+      </div>
+
+      
+    <?php include "horizontalDivider.php"; ?>
+
+      <div class="row about-us">
+        <div class="col col-12">
+          <h1 class="title-head">Improve Google map rankings.</h1>
+        </div>
+        <div class="col col-8">
+          <!-- <p>Stay engaged with your competitors and stand out from the competition with a fully optimized Google My Business profile. More than just a listing, Google My Business lets you reach audiences through Google Maps and Google Search. Our Google My Business agency helps keep customers connected to you..</p> -->
+          <p>
+          Enhance your Google Map rankings and establish a commanding presence on the digital landscape. In a world where competition is fierce, a fully optimized Google My Business profile is your key to staying ahead. It's not just a listing; it's your gateway to reaching your audience through Google Maps and Google Search.
+
+           At our Google My Business Agency, we do more than just set up a profile; we engineer it into a compelling customer magnet. Our expertise extends beyond mere visibility; it's about crafting an experience that resonates with your target audience. We understand that success is not only about acquiring customers; it's about keeping them engaged, loyal, and connected to you.
+
+           We pride ourselves on being more than a digital agency; we're your growth partner, your digital marketing maestro. With a blend of data-driven strategies, creative genius, and a relentless commitment to your success, we're dedicated to helping your business shine.
+
+           Partner with us to unlock the full potential of your Google My Business profile. Let's ensure that your brand stands out in a digital realm filled with endless possibilities. Stay ahead of your competitors and forge ahead of the competition. Reach out to us today and embark on a journey to thriving in the digital landscape."
+           </p>
+        </div>
+      </div>
     <!-- </div> -->
     <!-- ABOUT SECTION  -->
+
+
+    
+    <?php include "horizontalDivider.php"; ?>
 
     <!-- CLIENT LOGOS SECTION   -->
     <div class="container">
@@ -87,18 +196,110 @@
 	<!-- <div class="credit">Made with <span style="color:tomato">❤</span> by <a  href="https://www.learningrobo.com/">Learning Robo</a></div> -->
 	</div>
 
+
+  
+  <?php include "horizontalDivider.php"; ?>
+
     <!-- CLIENT LOGOS SECTION   -->
 
     <!-- OUR SERVICES  -->
-    <?php include "services.php"; ?>
+    <div class="services">
+      <div class="container-fluid our-services">
+        <div class="row our-services-title">
+          <div class="col col-12">
+            <h1 class="title-head">What We Do ?</h1>
+          </div>
+        </div>
+        <div class="row services-row">
+
+            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+                <div class="row">
+                    <div class="col col-10 service-image">
+                        <img
+                          src="images/services.jpeg"
+                          alt="Image Description"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div class="col col-10 service-description">
+                        <h3>Google Business Profile Management</h3>
+                        <p>  
+                        "Elevate your online presence with our Google Business Profile management services. We specialize in enhancing visibility, optimizing information, and engaging with your audience. Let us boost your local impact and help your business thrive."
+                        </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+                <div class="row">
+                    <div class="col col-10 service-image">
+                        <img
+                          src="images/services.jpeg"
+                          alt="Image Description"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div class="col col-10 service-description">
+                        <h3>Google Business Profile Optimization</h3>
+                        <p>
+                        "Unlock the full potential of your business on Google with our expert optimization services. We enhance your profile, ensuring accurate information, positive reviews, and higher visibility to attract and retain customers."
+                        </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+                <div class="row">
+                    <div class="col col-10 service-image">
+                        <img
+                          src="images/services.jpeg"
+                          alt="Image Description"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div class="col col-10 service-description">
+                        <h3>Google Business Profile Setup</h3>
+                        <p>
+                         "Kickstart your online presence with our comprehensive Google Business Profile setup. We'll create and configure your profile, ensuring it's accurate and engaging, so you can connect with local customers effectively and efficiently."
+                        </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+                <div class="row">
+                    <div class="col col-10 service-image">
+                        <img
+                          src="images/services.jpeg"
+                          alt="Image Description"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div class="col col-10 service-description">
+                        <h3>Google Business Profile Support</h3>
+                        <p>
+                          "Count on our dedicated support for your Google Business Profile. We provide ongoing assistance to ensure your profile stays accurate, optimized, and responsive to customer interactions, helping you succeed online."
+                        </p>
+                    </div>
+                </div>  
+            </div>
+
+            
+        </div>
+
+      </div>
+    </div>
     <!-- OUR SERVICES  -->
+
+    
+    <?php include "horizontalDivider.php"; ?>
   
 
     <!-- OUR WORKS  -->
     <div class="conatiner gallery-container">
       <div class="row">
         <div class="col col-12 title">
-          <h1 class="title-head">Our Work is for...</h1>
+          <h1 class="title-head">What We Offer....</h1>
         </div>
         <div class="col col-12">
           <!-- <h1>Healthcare </h1> -->
@@ -110,44 +311,29 @@
             <div class="col-lg-4 mb-4">
               <div class="card">
                 <img
-                  src="https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+                  src="images/marketing.webp"
                   alt=""
                   class="card-img-top"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Small Business</h5>
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
-                    eum similique repellat a laborum, rerum voluptates ipsam eos
-                    quo tempore iusto dolore modi dolorum in pariatur. Incidunt
-                    repellendus praesentium quae!
-                  </p>
-                  <!-- <a href="" class="btn btn-outline-success btn-sm"
-                    >Read More</a -->
+                  <h5 class="card-title">Marketing</h5>
                   
-                  <!-- <a href="" class="btn btn-outline-danger btn-sm"
-                  ><i class="far fa-heart"></i
-                ></a> -->
+                  
                 </div>
               </div>
             </div>
             <div class="col-lg-4 mb-4">
               <div class="card">
                 <img
-                  src="https://images.unsplash.com/photo-1516214104703-d870798883c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"
+                  src="images/lead-tracking.jpg"
                   alt=""
                   class="card-img-top"
                 />
                 <div class="card-body">
                   <h5 class="card-title">
-                    something
+                    Lead Tracking
                   </h5>
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
-                    eum similique repellat a laborum, rerum voluptates ipsam eos
-                    quo tempore iusto dolore modi dolorum in pariatur. Incidunt
-                    repellendus praesentium quae!
-                  </p>
+                  
                   <!-- <a href="" class="btn btn-outline-success btn-sm"
                     >Read More</a -->
                   
@@ -160,18 +346,13 @@
             <div class="col-lg-4 mb-4">
               <div class="card">
                 <img
-                  src="https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+                  src="images/review-generation.png"
                   alt=""
                   class="card-img-top"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Institute / Classess</h5>
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
-                    eum similique repellat a laborum, rerum voluptates ipsam eos
-                    quo tempore iusto dolore modi dolorum in pariatur. Incidunt
-                    repellendus praesentium quae!
-                  </p>
+                  <h5 class="card-title">Review Generation</h5>
+                  
                   <!-- <a href="" class="btn btn-outline-success btn-sm"
                     >Read More</a -->
                   
@@ -182,30 +363,11 @@
               </div>
             </div>
 
-            <div class="col-lg-4 mb-4">
-              <div class="card">
-                <img
-                  src="https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
-                  alt=""
-                  class="card-img-top"
-                />
-                <div class="card-body">
-                  <h5 class="card-title">Event Planners</h5>
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
-                    eum similique repellat a laborum, rerum voluptates ipsam eos
-                    quo tempore iusto dolore modi dolorum in pariatur. Incidunt
-                    repellendus praesentium quae!
-                  </p>
-                  <!-- <a href="" class="btn btn-outline-success btn-sm"
-                    >Read More</a -->
-                  
-                   <!-- <a href="" class="btn btn-outline-danger btn-sm"
-                  ><i class="far fa-heart"></i
-                ></a>  -->
-                </div>
-              </div>
+            <div class="col col-12">
+            <a href="OurServicesPage.php" class="btn btn-outline-light btn-sm"
+                    >Read More</a>
             </div>
+            
           </div>
         </div>
       </section>
@@ -213,9 +375,10 @@
 
     <!-- OUR WORKS  -->
 
-    <!-- WHO CAN CONNECT US  -->
 
-    <!-- WHO CAN CONNECT US  -->
+
+    
+     <?php include "horizontalDivider.php"; ?>
 
     <!-- TESTIMONIALS  -->
     <div class="container">
@@ -223,6 +386,8 @@
             <div class="col col-12 title-head"><h3>What Clients think about us</h3></div>
         </div>
     </div>
+
+
 
     <div class="outerdiv">
         
