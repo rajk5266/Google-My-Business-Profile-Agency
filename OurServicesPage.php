@@ -33,8 +33,8 @@
                   <p class="card-text">
                   Discover our white-label solutions. Partner with us to offer top-notch services under your brand, providing quality and value to your clients while we work behind the scenes
                   </p>
-                  <a href="" class="btn btn-outline-success btn-sm"
-                    >Read More</a>
+                  <!-- <a href="" class="btn btn-outline-success btn-sm"
+                    >Read More</a> -->
                   
                   <!-- <a href="" class="btn btn-outline-danger btn-sm"
                   ><i class="far fa-heart"></i

@@ -19,15 +19,15 @@
         <div class="row">
           <!-- <div class="col-col-2"></div> -->
           <div class="col-sm-10 col-md-6 col-lg-6" style="padding: 5%">
-            <div class="hero-banner-image">
+            <!-- <div class="hero-banner-image">
               <img src="images/hero-banner.jpeg" alt="" />
-            </div>
+            </div> -->
           </div>
           <div class="col col-sm-12 col-md-4 col-lg-3" style="padding: 5%">
-            <div class="hero-banner-description">
+            <!-- <div class="hero-banner-description">
               <h1 class="title-head">Google My Business</h1>
               <h3 class="title-head">Profile Agency</h3>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -42,8 +42,8 @@
 
     <!-- <div class="container-fluid"> -->
       <div class="row about-us">
-        <div class="col col-12 about-us-col">
-             <div class="row about-us-content-head">
+        <div class="col col-12 about-us-col animate">
+             <div class="row about-us-content-head ">
                  <div class="col col-12">
                      <h1 class="title-head">Google My Business Profile Agency</h1>
                   </div>
@@ -52,7 +52,7 @@
                  </div>
              </div>
         </div>
-        <div class="col col-12 about-us-col">
+        <div class="col col-12 about-us-col ">
              <div class="row about-us-content-desc ">
                  <div class="col col-8">
                  <p>"Your trusted agency for top-notch solutions, offering expertise, creativity, and results in Marketing , Development and Design Services </p>
@@ -69,9 +69,9 @@
       
     <?php include "horizontalDivider.php"; ?>
 
-   <div class="container what-is-gmb">
+   <div class="container what-is-gmb ">
         <div class="row">
-           <div class="col col-12">
+           <div class="col col-12 ">
              <h1 class="title-head">What is GMB ?</h1>
            </div>
            <div class="col col-12">
@@ -80,7 +80,7 @@
            </div>
         </div>
 
-        <div class="row">
+        <div class="row animate">
           <div class="col col-12">
             <h1 class="title-head">The Role of GMB in Local Marketing</h1>
           </div>
@@ -91,7 +91,7 @@
         </div>
        
 
-        <div class="row">
+        <div class="row animate">
           <div class="col col-12">
             <h1 class="title-head">How Our Agency Can Help</h1>
           </div>
@@ -102,7 +102,7 @@
         </div>
  
 
-        <div class="row">
+        <div class="row animate">
           <div class="col col-12">
             <h1 class="title-head">Customized GMB Strategies</h1>
           </div>
@@ -113,7 +113,7 @@
         </div>
       
 
-        <div class="row">
+        <div class="row animate">
           <div class="col col-12">
             <h1 class="title-head">Measuring Success and Ongoing Support</h1>
           </div>
@@ -129,12 +129,12 @@
      
     <?php include "horizontalDivider.php"; ?>
 
-      <div class="row about-us">
-        <div class="col col-12">
+      <div class="row about-us ">
+        <div class="col col-12 animate">
           <h1 class="title-head"> About Our </h1>
           <h1 class="title-head">Google My Business Profile Agency</h1>
         </div>
-        <div class="col col-8">
+        <div class="col col-8 ">
           <p> In today's competitive landscape, your online identity matters more than ever. Our mission is to empower businesses like yours to make a lasting impression on potential customers.
           With a fully optimized Google My Business profile, you're not just another listing – you're a vibrant, dynamic presence. We understand that your online visibility extends far beyond Google Search; it encompasses Google Maps, where potential customers seek directions to your doorstep.</p>
           <p>Our Google My Business Agency is your dedicated partner in this journey. We go beyond just setting up your profile; we craft it into a powerful customer engagement tool. By utilizing the potential of GMB, we help you attract and retain customers, ensuring your business outshines competitors.</p>
@@ -146,8 +146,8 @@
       
     <?php include "horizontalDivider.php"; ?>
 
-      <div class="row about-us">
-        <div class="col col-12">
+      <div class="row about-us ">
+        <div class="col col-12 animate">
           <h1 class="title-head">Improve Google map rankings.</h1>
         </div>
         <div class="col col-8">
@@ -203,38 +203,38 @@
     <!-- CLIENT LOGOS SECTION   -->
 
     <!-- OUR SERVICES  -->
-    <div class="services">
+    <div class="services ">
       <div class="container-fluid our-services">
         <div class="row our-services-title">
-          <div class="col col-12">
+          <div class="col col-12 animate">
             <h1 class="title-head">What We Do ?</h1>
           </div>
         </div>
         <div class="row services-row">
 
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+            <div class="col .col-10 col-sm-10 col-md-10 col-lg-5 animate">
                 <div class="row">
-                    <div class="col col-10 service-image">
-                        <img
-                          src="images/services.jpeg"
-                          alt="Image Description"
-                          class="img-fluid"
-                        />
+                      <div class="col col-10 service-image">
+                          <img
+                            src="images/profile-management.jpg"
+                            alt="Image Description"
+                            class="img-fluid"
+                          />
                       </div>
                       <div class="col col-10 service-description">
-                        <h3>Google Business Profile Management</h3>
-                        <p>  
-                        "Elevate your online presence with our Google Business Profile management services. We specialize in enhancing visibility, optimizing information, and engaging with your audience. Let us boost your local impact and help your business thrive."
-                        </p>
-                    </div>
+                         <h3>Google Business Profile Management</h3>
+                         <p>  
+                          "Elevate your online presence with our Google Business Profile management services. We specialize in enhancing visibility, optimizing information, and engaging with your audience. Let us boost your local impact and help your business thrive."
+                         </p>
+                      </div>
                 </div>  
             </div>
 
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+            <div class="col .col-10 col-sm-10 col-md-10 col-lg-5 animate">
                 <div class="row">
-                    <div class="col col-10 service-image">
+                     <div class="col col-10 service-image">
                         <img
-                          src="images/services.jpeg"
+                          src="images/profile-optimization.jpg"
                           alt="Image Description"
                           class="img-fluid"
                         />
@@ -244,15 +244,14 @@
                         <p>
                         "Unlock the full potential of your business on Google with our expert optimization services. We enhance your profile, ensuring accurate information, positive reviews, and higher visibility to attract and retain customers."
                         </p>
-                    </div>
+                      </div>
                 </div>  
             </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+            <div class="col .col-10 col-sm-10 col-md-10 col-lg-5 animate">
                 <div class="row">
-                    <div class="col col-10 service-image">
+                     <div class="col col-10 service-image">
                         <img
-                          src="images/services.jpeg"
+                          src="images/profile-setup.jpg"
                           alt="Image Description"
                           class="img-fluid"
                         />
@@ -260,17 +259,16 @@
                       <div class="col col-10 service-description">
                         <h3>Google Business Profile Setup</h3>
                         <p>
-                         "Kickstart your online presence with our comprehensive Google Business Profile setup. We'll create and configure your profile, ensuring it's accurate and engaging, so you can connect with local customers effectively and efficiently."
+                        "Kickstart your online presence with our comprehensive Google Business Profile setup. We'll create and configure your profile, ensuring it's accurate and engaging, so you can connect with local customers effectively."
                         </p>
-                    </div>
+                      </div>
                 </div>  
             </div>
-
-            <div class="col col-sm-10 col-md-10 col-lg-5 animate">
+            <div class="col .col-10 col-sm-10 col-md-10 col-lg-5 animate">
                 <div class="row">
-                    <div class="col col-10 service-image">
+                     <div class="col col-10 service-image">
                         <img
-                          src="images/services.jpeg"
+                          src="images/profile-support.jpg"
                           alt="Image Description"
                           class="img-fluid"
                         />
@@ -278,11 +276,13 @@
                       <div class="col col-10 service-description">
                         <h3>Google Business Profile Support</h3>
                         <p>
-                          "Count on our dedicated support for your Google Business Profile. We provide ongoing assistance to ensure your profile stays accurate, optimized, and responsive to customer interactions, helping you succeed online."
+                        "Elevate  online presence with our Google Business Profile Support. Our expert team is dedicated to enhancing your profile's performance. We provide continuous guidance, help you manage reviews, update crucial information, and ensure your online reputation shines, so you can stay ahead in the digital landscape."
                         </p>
-                    </div>
+                      </div>
                 </div>  
             </div>
+
+    
 
             
         </div>
