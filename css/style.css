@@ -24,7 +24,7 @@ p{
 }
 /* NAVBAR  */
 .navbar{
-    background: linear-gradient(to right, #f4f4f4a1, #d7cfcfa1, #bcb5de, #bcb5de);
+    background: linear-gradient(to bottom, #6ca6ff, #88b7ff, #b8d4ff, #cee0ff);
 }
 .navbar ul{
     margin: auto;
