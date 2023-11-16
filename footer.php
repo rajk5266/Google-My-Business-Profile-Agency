@@ -4,8 +4,36 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget subscribe no-box">
-                <h5 class="widget-title">Google My Business Profile Agency<span></span></h5>
-                <p></p>
+                 <h6 class="widget-title">BEST SEARCH ENGINE OPTIMIZATION AGENCY<span></span></h6>
+                <!-- <p>Location</p> -->
+                <!-- <p>Navi Mumbai, India</p> -->
+              </div>
+            <div class="col-12">
+              <div class="row">
+                  <!-- <div class="col col-12">
+                      <h6>Best search Engine Optimization</h6>
+                  </div> -->
+                  <div class="col col-12">
+                     <div class="image">
+                         <img src="images/" alt="">
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="address">
+                         <a  href="geo"><i class="fa fa-map-marker footer-icon" aria-hidden="true"></i>119, Arenja Arcade, Sec-17, Vashi-400703</a>
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="phone">
+                       <a  href="tel:+918369459586"><i class="fa fa-phone footer-icon" aria-hidden="true"></i>(+91) 8369459586</a>
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="email">
+                       <a  href="mailto:digitalmarketingagency919@gmail.com"><i class="fa fa-envelope footer-icon" aria-hidden="true"></i>digitalmarketingagency919@gmail.com</a>
+                     </div>
+                  </div>
+                </div>
               </div>
             </div>
 
@@ -20,26 +48,26 @@
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="OurServicesPage.php">Services</a>
+                      <a href="index.php">About Us</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="">Blogs</a>
+                      <a href="CaseStudies.php">Services</a>
                     </div>
                   </li>
-                  <!-- <li>
+                  <li>
                     <div class="thumb-content">
-                      <a href="#.">Event/Tickets</a>
+                      <a href="#.">Blogs</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content"><a href="#.">News</a></div>
                   </li>
                   <li>
-                    <div class="thumb-content"><a href="#.">Lifestyle</a></div>
+                    <div class="thumb-content"><a href="ContactUsPage.php">Contact Us</a></div>
                   </li>
-                  <li>
+                  <!-- <li>
                     <div class="thumb-content"><a href="#.">About</a></div>
                   </li> -->
                 </ul>
@@ -49,8 +77,8 @@
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget no-box">
                 <h5 class="widget-title">Get Started<span></span></h5>
-                <p>Connect now to get maximum benefits for yout business.</p>
-                <a class="btn" href="" target="_blank"
+                <p>Connect with us to boost your reach..</p>
+                <a class="btn" href="https://bit.ly/3m9avif" target="_blank"
                   >Subscribe Now</a
                 >
               </div>
@@ -59,17 +87,17 @@
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget no-box">
                 <h5 class="widget-title">Contact Us<span></span></h5>
-                <p>
-                  <a href="mailto:info@domain.com" title="glorythemes"
+                <!-- <p>
+                  <a href="mailto:info@domaincom" title="glorythemes" 
                     >googlemybusinessprofileagency.com</a
                   >
-                </p>
+                </p> -->
                 <ul class="social-footer2">
                   <li class="">
                     <a
                       title="youtube"
                       target="_blank"
-                      href="https://b"
+                      href="https://bit.ly/3m9avif"
                       ><img
                         alt="youtube"
                         width="30"
@@ -124,7 +152,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12 text-center">
-              <p>Copyright Google My Business Profile Agency © 2020. All rights reserved.</p>
+              <p>Copyright Company Name © 2022. All rights reserved.</p>
             </div>
           </div>
         </div>
